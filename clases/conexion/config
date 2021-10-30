@@ -1,9 +1,0 @@
-{
-    "conexion":{
-        "server" : "s29oj5odr85rij2o.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
-        "user" : "ytdnflcwijp5gegk",
-        "password" : "jt1dnasvwm8qz7ge",
-        "database" : "qr8ndghklhuxnk40",
-        "port": "3306"
-    }
-}
